@@ -24,8 +24,9 @@
     font-size: small;
     font-style: italic;
     display: block;
-    margin: 16px 0px;
-    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
 }
 .list-heading {
     margin: 16px 0px;
@@ -44,4 +45,10 @@
 ul {
     max-width: 500px;
     margin: auto
+}
+.footer {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    
 }
