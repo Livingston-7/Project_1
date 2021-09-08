@@ -1,0 +1,47 @@
+
+#main {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title {
+    text-align: center;
+}
+#img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-div { 
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+#tribute-info{
+    display:block;
+}
+#quote {
+    font-size: small;
+    font-style: italic;
+    display: block;
+    margin: 16px 0px;
+    text-align: center;
+}
+.list-heading {
+    margin: 16px 0px;
+    text-align: center;
+}
+.list {
+    margin: 16px 0px;
+    padding: 20px;
+    text-align: left;
+}
+.author {
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+ul {
+    max-width: 500px;
+    margin: auto
+}
